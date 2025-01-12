@@ -1,4 +1,5 @@
 # DESCRIÇÃO
+<img src="./assets/presentation.gif">
 Este projeto de construir uma página de **Perfil de viagem**, é um projeto acadêmico, desafio da escola Rocketseat.
 O que mais me chamou atenção neste projeto foi colocar em prática uma melhor forma de organização. 
 Dentro das tecnologias eu pude observar e aprender a:

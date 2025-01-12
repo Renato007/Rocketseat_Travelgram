@@ -10,4 +10,7 @@ Dentro das tecnologias eu pude observar e aprender a:
 💡O uso da class de cor de fundo <b>bg-surface-color</b> para resolver o problema colateral, do corte de cor que surgiu ao colocar declaração  <b>max-width: 1280px</b>.<br>
 
 ## Status do Projeto
-Em desenvolvimento
+Concluído
+
+## Versão
+1.0
